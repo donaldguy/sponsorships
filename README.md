@@ -1,0 +1,1 @@
+This repo is for [discussions](https://github.com/donaldguy/sponsorships/discussions) of what I can/should do to make [sponsoring me](https://github.com/sponsors/donaldguy) on GitHub an attractive/worthwhile enterprise.
